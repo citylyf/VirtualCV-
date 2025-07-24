@@ -2,17 +2,16 @@ A responsive and interactive virtual CV built to showcase my education, experien
 
 HTML5 & CSS3 – Structure and styling
 
-JavaScript – For interactivity (used alongside TypeScript)
+TypeScript & tailwind – For interactivity (used alongside TypeScript)
 
 Framework/Library – (Next.js)
 
 Responsive Design – Supports desktop, tablet, and mobile devices
 
-Deployment – ( Vercel) Project Core Elements: 🪪 1. Personal Information Name, title, professional summary
+Deployment – ( Vercel) Project Core Elements:
+🪪 1. Personal Information Name, title, professional summary
 
 Contact information (email, phone, location)
-
-Profile image
 
 🎓 2. Education Institutions attended
 
@@ -61,3 +60,8 @@ CMS integration for real-time content editing
 Form for contacting via email
 
 Analytics (track visits and interactions)
+***Installation Instructions**
+1. Clone the project
+2. Install dependencies (npm install)
+3. Run locally (npm run dev)
+   
